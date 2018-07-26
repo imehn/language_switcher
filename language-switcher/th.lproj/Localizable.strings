@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  language-switcher
+
+  Created by Jarupong Vongvuthipornchai on 26/07/2018.
+  Copyright © 2018 Bangkok Cadogan. All rights reserved.
+*/
+
+"Hello" = "สวัสดี";
+"Change Languages" = "เลือกภาษา";

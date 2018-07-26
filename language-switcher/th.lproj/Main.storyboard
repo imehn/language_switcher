@@ -68,7 +68,6 @@
                     </view>
                     <navigationItem key="navigationItem" id="Skz-Ja-H3S"/>
                     <connections>
-                        <outlet property="changeLanguageButton" destination="NAg-2R-rqh" id="qAb-uJ-0cV"/>
                         <outlet property="helloLabel" destination="bty-YE-wMp" id="9yr-vD-crX"/>
                     </connections>
                 </viewController>
